@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  creator_id: 1
+  destroyed_at: 2016-12-29 11:09:13
+  active: 1
+  url: MyString
+  editor_id: 1
+  parent_id: 1
+
+two:
+  name: MyString
+  creator_id: 1
+  destroyed_at: 2016-12-29 11:09:13
+  active: 1
+  url: MyString
+  editor_id: 1
+  parent_id: 1
